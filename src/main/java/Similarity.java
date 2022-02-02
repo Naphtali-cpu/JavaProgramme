@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+// Program for finding similarity
 public class Similarity {
     public static int calculate(String s){
         char[]arr=s.toCharArray();
